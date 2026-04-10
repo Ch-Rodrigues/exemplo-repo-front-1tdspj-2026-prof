@@ -5,15 +5,15 @@
 ## ATIVIDADES
 
 ```
-1 - Expandir a atividade apresentada criando novas páginas dentro da pasta paginas. Crie até 3 níveis de pastas.
-2 - Refatore o projeto para receber estas novas páginas e realizar navegação por hyperlinks entre elas.
-3 - Determine um thema para todas as páginas. Incluindo as páginas existentes. Com tema quero dizer que vamos falar sobre por exemplo; Esportes então teremos, a página de futebol, basquete etc;
-4 - Crie conteúdos adequados.
-5 - O index deve estar atualizado com os trechos iniciais de cada página.
-6 - Na página index ao lado do hiperlink mais adicione um pequeno ícone referente ao conteúdo.
-7 - E na página antes do conteúdo adicione a mesma imagem mas não ícone, uma imagem de 500px por 500px.
-8 - Para a imaggem utilize a tag <img src="caminho da imagem" alt="descrição"  width="largura" height="altura">
-9 - Para cada página faça um commit.
-10 - Faça um push e um PR, atualize a pages do git e verifique o resultado.
+1 - Refatorar o página1 igual ao index.
+2 - Adicionar no main apenas o conteúdo referente a página 1
+3 - Cria links para a página Home e Pagina2.
+4 - Criar a pagina2.html dentro de uma pasta de nome paginas.
+5 - Criar os links referentes a todas as páginas de ida e volta.
+6 - O conteúdo da pagina2 deve ser criado parecido com o da pagina1.
+7 - Aplique um estilo inline no body de todas as páginas que fique padrão.
+8 - Aplique estilização de alinhamento centralizado para todos os títulos existentes, Ex h1,h2 etc;
+9 - Altera a cor de fundo do Header e a borda.
+Leitura e estudos da página 13 até 45
 
-### Obs: Caso queira que o Porf veja o resultado, enviei o link do repo e do pages via TEAMS.
+https://www.w3schools.com/Css/
